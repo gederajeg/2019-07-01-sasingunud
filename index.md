@@ -320,7 +320,7 @@ please preview your site before committing, and make sure to run
     <a href="https://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>.
+    <a href="https://www.rstudio.com/">RStudio</a>. Click on one of the Operating System (OS) tabs below to reveal the information on how to install R and RStudio for specific OS.
   </p>
 
   <div>
