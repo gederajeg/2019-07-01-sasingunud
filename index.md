@@ -139,8 +139,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges. They should have a few specific software packages installed (listed <a href="#setup">below</a>). 
-  on.
+  Windows, Mac, or Linux operating system (not a tablet, Chromebook, etc.) that they have administrative privileges. <strong>Prior to the workshop</strong>, they should have installed the latest version of <a href="https://www.r-project.org">R</a> (download <a href="https://cran.r-project.org">here</a>) and <a href="https://www.rstudio.com">RStudio</a> (download the FREE version <a href="https://www.rstudio.com/products/rstudio/download/">here</a> (see <a href="#setup">below</a> for further details). A brief pre-workshop session for installation can be arranged if needed.
 </p>
 
 {% comment%}
